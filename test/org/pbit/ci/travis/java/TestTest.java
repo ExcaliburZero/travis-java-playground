@@ -10,4 +10,3 @@ public class TestTest {
 	assertTrue(1 == 1);
     }
 }
-
